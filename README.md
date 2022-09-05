@@ -27,7 +27,7 @@ npm start
 
 ## Endpoint Hilight
 
-For users with Pro API Key, please use this root URL to make API request: https://pro-api.coingecko.com/api/v3/
+For users with Pro API Key, please use this root URL to make API request: https://mitramas-test.herokuapp.com/
 
 ##### Login [ / ]
 `POST` auth/login
